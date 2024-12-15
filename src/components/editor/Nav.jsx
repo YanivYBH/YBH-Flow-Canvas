@@ -29,7 +29,7 @@ const Nav = ({flow, changeName}) => {
         <div className='flex items-center gap-1 border bg-white p-1 rounded-md z-10'>
           <Link className='px-2 py-2 font-medium text-sm flex items-center gap-2 hover:bg-gray-100 active:bg-gray-200 rounded' to={'/workspace/all'}>
             <CgMenuLeft size={16}/>
-            <span className='font-bold'>FlowLite</span>
+            <span className='font-bold'>YBH Flow Canvas</span>
           </Link>
           <div>
             |

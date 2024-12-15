@@ -19,7 +19,7 @@ const Support = () => {
           <p>Welcome to the support section of documentation. If you encounter any issues or need help with app, please follow the guidelines below:</p>
           <p class="font-semibold my-2">If you need assistance with the script, please choose one of the following methods to reach out to me:</p>
           <p><strong>Support page on CodeCanyon</strong></p>
-          <p><a class="text-blue-600 font-semibold" target="_blank" href="">Codecanyon - FlowLite Support</a></p>
+          <p><a class="text-blue-600 font-semibold" target="_blank" href="">YBH Flow Canvas Support</a></p>
           <br />
           <p>
           <strong>Email Support</strong>

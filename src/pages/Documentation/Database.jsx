@@ -16,11 +16,11 @@ const Database = () => {
           <hr className='my-4' />
           <div className="mt-6">
             <p>
-            The FlowLite app uses local storage as its database, making it easy to use in any environment without requiring a server.
+            The YBH Flow Canvas app uses local storage as its database, making it easy to use in any environment without requiring a server.
             </p>
             <br/>
             <p className='text-xl'>
-            This <strong>database-agnostic</strong> approach allows easy connections to your own database or external APIs. FlowLite has only two tables for storing information: <strong>Flows</strong> and <strong>Groups</strong>.
+            This <strong>database-agnostic</strong> approach allows easy connections to your own database or external APIs. YBH Flow Canvas has only two tables for storing information: <strong>Flows</strong> and <strong>Groups</strong>.
             </p>
             <br/>
             <p>

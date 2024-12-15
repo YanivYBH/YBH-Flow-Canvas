@@ -21,7 +21,7 @@ const Workspace = () => {
       {/* Demo info */}
       {!isDocumentationPage && 
         <div className='fixed right-6 top-6  text-xs font-normal bg-blue-50 border border-blue-400 p-3 rounded flex items-center gap-1 z-10'>
-          <PiDatabase /> Please note that the FlowLite app uses <strong>localStorage</strong> as a database.
+          <PiDatabase /> Please note that the YBH Flow Canvas app uses <strong>localStorage</strong> as a database.
         </div>
       }
 
@@ -32,7 +32,7 @@ const Workspace = () => {
             <NavLink to={'/landing'}>
               <div className='flex items-center gap-2'>
                 <FiGitMerge />
-                <span className="font-bold">FlowLite</span>
+                <span className="font-bold">YBH Flow Canvas</span>
               </div>
             </NavLink>
         </div>
@@ -50,7 +50,7 @@ const Workspace = () => {
           <div className="rounded-xl border bg-white">
               <div className="space-y-1.5 p-4">
                 <div className="font-semibold tracking-tight text-sm">Support</div>
-                <div className="text-xs"> We are here to help. Email us at <strong>support@email</strong> if you need any help.</div>
+                <div className="text-xs"> We are here to help. Email us at <strong>yaniv@ybhltd.com</strong> if you need any help.</div>
                 </div>
               </div>
         </div>

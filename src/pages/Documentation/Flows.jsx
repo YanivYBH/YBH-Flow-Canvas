@@ -17,7 +17,7 @@ const Flows = () => {
           <hr className='my-4' />
           <div className="mt-6">
             <p>
-              When you open the FlowLite app, you'll be greeted with the main workspace page.
+              When you open the YBH Flow Canvas app, you'll be greeted with the main workspace page.
             </p>
             <div className='p-4 my-2'>
               <img className='rounded-md shadow-xl w-full border' src='/doc/workspace.png'/>

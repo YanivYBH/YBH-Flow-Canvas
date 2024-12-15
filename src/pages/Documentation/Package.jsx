@@ -16,7 +16,7 @@ const Package = () => {
           <hr className='my-4' />
           <div className="mt-6">
             <p>
-            When you purchase FlowLite from CodeCanyon, the download includes a ZIP package containing all the necessary files to get started. Below is a summary of what you can find in the package:
+            When you purchase YBH Flow Canvas from CodeCanyon, the download includes a ZIP package containing all the necessary files to get started. Below is a summary of what you can find in the package:
             </p>
             <h2 className='font-semibold text-xl my-3 text-gray-900'>
             What’s Included in the ZIP Package
@@ -25,8 +25,8 @@ const Package = () => {
             <li><p className="text-gray-900"><strong>Documentation (<code>Documentation/</code>)</strong>:</p>
             Documentation includes step-by-step installation instructions and a guide to understanding the basic usage of the app.</li>
               <li>
-                <p className='text-gray-900'><strong>Flow Lite App (<code>FlowLite/</code>)</strong>:</p>
-                The complete source code of the FlowLite app. This folder contains the full web app as shown in the demo.
+                <p className='text-gray-900'><strong>Flow Lite App (<code>YBH Flow Canvas/</code>)</strong>:</p>
+                The complete source code of the YBH Flow Canvas app. This folder contains the full web app as shown in the demo.
               </li>
             </ul>
           </div>

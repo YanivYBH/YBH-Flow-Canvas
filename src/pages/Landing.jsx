@@ -9,8 +9,11 @@ const Landing = () => {
           <div className='px-2 py-1 border rounded-full border-gray-300 flex items-center justify-center text-xs gap-1 bg-white'>
             <LuDatabase className='text-blue-600'/> LocalStorage <strong>database</strong>
           </div>
-          <div className='text-4xl font-bold bg-white'>
-              FlowLite - user flow builder
+          <div className='text-4xl font-bold bg-white items-center text-center'>
+          YBH Flow Canvas
+          </div>
+          <div className='text-4xl font-bold bg-white items-center text-center'>
+          User flow builder
           </div>
           <div className='text-center'>
             Design and create interactive user flows.

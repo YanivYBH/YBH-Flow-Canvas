@@ -6,7 +6,7 @@ const Introduction = () => {
     <div>
       <div className='rounded-md shadow-md border mb-6 relative'>
         <div className='absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-6xl font-bold drop-shadow-md z-10'>
-          FlowLite
+        YBH Flow Canvas
         </div>
         <img className='rounded-md w-full ' src='/doc/introScreen.png'/>
       </div>
@@ -20,7 +20,7 @@ const Introduction = () => {
             </h1>
           </header>
           <p className="mt-2 text-xl">
-          Welcome to the documentation for FlowLite, a web application designed for creating and editing interactive user flows. This guide will help you understand the app's basic usage and walk you through setting up the development environment.
+          Welcome to the documentation for YBH Flow Canvas, a web application designed for creating and editing interactive user flows. This guide will help you understand the app's basic usage and walk you through setting up the development environment.
           </p>
           <hr className='my-4' />
           <div className="mt-6">
@@ -28,7 +28,7 @@ const Introduction = () => {
             Project Overview  
             </h2>
             <p>
-            The FlowLite is a web-based application build with React that allows users to create and customize user flows.
+            The YBH Flow Canvas is a web-based application build with React that allows users to create and customize user flows.
             </p>
           </div>
           <div className="mt-6">

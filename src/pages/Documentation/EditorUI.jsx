@@ -22,7 +22,7 @@ const EditorUI = () => {
               <img className='rounded-md shadow-xl w-full border' src='/doc/emptyeditor.png'/>
             </div>
             <p>
-            In the top-left corner, you will find the FlowLite button, which takes you to the workspace page where you can see a list of your flows. Next to it is the current title of your flow, which is editable. You can click on it to update the title.
+            In the top-left corner, you will find the YBH Flow Canvas button, which takes you to the workspace page where you can see a list of your flows. Next to it is the current title of your flow, which is editable. You can click on it to update the title.
             </p>
             <div className='p-4 my-2'>
               <img className='rounded-md shadow-xl w-1/3 border' src='/doc/toolbox.png'/>
