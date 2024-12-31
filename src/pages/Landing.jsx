@@ -20,6 +20,7 @@ const Landing = () => {
             Visualize your user journeys across websites and social media using a various wireframes, customizable shapes and social platform icons.
           </div>
           <div>
+            
             <NavLink to={'/'} className='rounded px-3 py-1.5 font-medium text-smb flex items-center gap-1 bg-gray-800 text-white active:bg-gray-700'>
               Enter <LuArrowRight />
             </NavLink>
